@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="413.644" height="317.144" viewBox="0 0 413.644 317.144">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e9cf24;
+        stroke: #e9cf24;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+        stroke: #fff;
+      }
+
+      .cls-3 {
+        stroke-width: 4px;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        filter: url(#Rectangle_1);
+      }
+    </style>
+    <filter id="Rectangle_1" x="113.644" y="154.144" width="257" height="163" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="weather" transform="translate(-676.356 -275.856)">
+    <g id="Ellipse_5" data-name="Ellipse 5" class="cls-1" transform="translate(728 327)">
+      <circle class="cls-4" cx="94" cy="94" r="94"/>
+      <circle class="cls-5" cx="94" cy="94" r="93.5"/>
+    </g>
+    <g id="cloud_top" transform="translate(245 -35)">
+      <g class="cls-6" transform="matrix(1, 0, 0, 1, 431.36, 310.86)">
+        <g id="Rectangle_1-2" data-name="Rectangle 1" class="cls-2" transform="translate(122.64 160.14)">
+          <rect class="cls-4" width="239" height="145" rx="36"/>
+          <rect class="cls-5" x="0.5" y="0.5" width="238" height="144" rx="35.5"/>
+        </g>
+      </g>
+      <g id="Ellipse_1" data-name="Ellipse 1" class="cls-2" transform="translate(497 471)">
+        <circle class="cls-4" cx="72.5" cy="72.5" r="72.5"/>
+        <circle class="cls-5" cx="72.5" cy="72.5" r="72"/>
+      </g>
+      <g id="Rectangle_2" data-name="Rectangle 2" class="cls-2" transform="translate(676 471)">
+        <rect class="cls-4" width="83" height="132" rx="16"/>
+        <rect class="cls-5" x="0.5" y="0.5" width="82" height="131" rx="15.5"/>
+      </g>
+      <g id="Rectangle_3" data-name="Rectangle 3" class="cls-2" transform="translate(554 476)">
+        <rect class="cls-4" width="240" height="123" rx="18"/>
+        <rect class="cls-5" x="0.5" y="0.5" width="239" height="122" rx="17.5"/>
+      </g>
+      <g id="Ellipse_2" data-name="Ellipse 2" class="cls-2" transform="translate(538 441)">
+        <circle class="cls-4" cx="48" cy="48" r="48"/>
+        <circle class="cls-5" cx="48" cy="48" r="47.5"/>
+      </g>
+      <g id="Ellipse_3" data-name="Ellipse 3" class="cls-2" transform="translate(586 400)">
+        <circle class="cls-4" cx="94" cy="94" r="94"/>
+        <circle class="cls-5" cx="94" cy="94" r="93.5"/>
+      </g>
+      <g id="Ellipse_4" data-name="Ellipse 4" class="cls-3" transform="translate(702 473)">
+        <circle class="cls-4" cx="71.5" cy="71.5" r="71.5"/>
+        <circle class="cls-5" cx="71.5" cy="71.5" r="69.5"/>
+      </g>
+    </g>
+    <g id="Rectangle_4" data-name="Rectangle 4" class="cls-1" transform="matrix(0.999, -0.035, 0.035, 0.999, 799.235, 276.17)">
+      <rect class="cls-4" width="9" height="44" rx="4"/>
+      <rect class="cls-5" x="0.5" y="0.5" width="8" height="43" rx="3.5"/>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" class="cls-1" transform="matrix(0.829, 0.559, -0.559, 0.829, 904.072, 298.245)">
+      <rect class="cls-4" width="9" height="44" rx="4"/>
+      <rect class="cls-5" x="0.5" y="0.5" width="8" height="43" rx="3.5"/>
+    </g>
+    <g id="Rectangle_6" data-name="Rectangle 6" class="cls-1" transform="translate(708.762 325.626) rotate(-45)">
+      <rect class="cls-4" width="9" height="44" rx="4"/>
+      <rect class="cls-5" x="0.5" y="0.5" width="8" height="43" rx="3.5"/>
+    </g>
+    <g id="Rectangle_7" data-name="Rectangle 7" class="cls-1" transform="translate(676.356 424.729) rotate(-88)">
+      <rect class="cls-4" width="9" height="44" rx="4"/>
+      <rect class="cls-5" x="0.5" y="0.5" width="8" height="43" rx="3.5"/>
+    </g>
+  </g>
+</svg>
